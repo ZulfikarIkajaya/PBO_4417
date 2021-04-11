@@ -1,5 +1,5 @@
-import Transportasi.TestSepeda;
-import Transportasi.MobilTest;
+import TestTransportasi.TestSepeda;
+import TestTransportasi.MobilTest;
 
 public class TestTransportasi{
     public static void main(String[] args){
